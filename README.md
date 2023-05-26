@@ -26,3 +26,8 @@ Install the following:
 ## How to run
 
 After dowloading the above requirements and setting up the environment run **main1.py**
+
+## Detailed description 
+coming soon....
+
+
